@@ -1,3 +1,10 @@
+## 🚀 Live Demo
+
+This project is deployed and available at:
+
+👉 [Check out the live Todo App](https://to-do-app-to-do.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
