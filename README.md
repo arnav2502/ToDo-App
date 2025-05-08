@@ -4,6 +4,8 @@ This project is deployed and available at:
 
 👉 [Check out the live Todo App](https://to-do-app-to-do.netlify.app/)
 
+![image](https://github.com/user-attachments/assets/ce38fad9-bd9f-4252-bec0-c8a1dc04ba2a)
+
 
 # Getting Started with Create React App
 
